@@ -1,5 +1,6 @@
 html,body {
     height: 100%;
+    background-color: #f0f0f0;
 }
 
 .menu {
@@ -8,8 +9,7 @@ html,body {
     clear: both;
     text-align: center;
     font-size: 20px;
-    font-family: Serif;
-    background-color: #f0f0f0;
+    font-family: Tahoma;
 }
 
 .menu ul {
@@ -44,10 +44,14 @@ html,body {
 
 .title {
     height: 100%;
-    background-color: purple;
     float: left;
     width: 80%;
     margin: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: Tahoma;
+    color: #2f2f2f
 }
 
 .footer {
